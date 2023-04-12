@@ -18,21 +18,6 @@ body{
     width: 100%;
 }
 
-/* Estilos del header */
-header{
-    background-color: #fff ;
-    padding: 0.5% 3%;
-}
-
-#logo{
-    width: 10%;
-}
-
-/*
-#logo img{
-}
-*/
-
 /* Estilos fo */
 #fo {
     position: relative;
@@ -45,9 +30,9 @@ header{
 
 #fo .info-container{
     position: absolute;
-    top: 40%;
+    top: 49%;
     transform: translateY(-50%);
-    left: 0;
+    left: 5%;
     display: flex;
     width: 100%;
     color: #000;
