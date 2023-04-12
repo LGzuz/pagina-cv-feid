@@ -40,7 +40,7 @@ body{
 }
 
 #fo .info-container #foto{
-    width: 200px;
+    width: 300px;
     
 }
 
@@ -49,7 +49,7 @@ body{
 }
 
 #fo .info-container .info{
-    margin: 35px 0px 0px 20px;
+    margin: 80px 0px 0px 40px;
     font-weight: bold;
     width: calc(100%-200px);
 }
