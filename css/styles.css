@@ -63,56 +63,11 @@ body{
 
 /* Estilos del main */
 main{
-    color: white;
+
     padding: 40px;
-}
 
-main .social-icons{
-    display: flex;
-    justify-content: center;
-    margin-top: 40px;
-    list-style: none;
 }
-
-main .social-icons li{
-    margin-left: 8px;
-}
-
-main .social-icons .social-icon{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15px;
-    width: 100%;
-    height: 100%;
-}
-
-main .social-icons .social-icon img{
-    width: 40%;
-    height: 40%;
-}
-
-main .feid-pages{
-    display: flex;
-    justify-content: center;
-    margin-top: 40px;
-    list-style: none;
-}
-
-main .feid-pages .feid-page{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15px;
-    width: 100%;
-    height: 100%;
-}
-
-main .feid-pages .feid-page img{
-    width: 100%;
-    height: 100%;
-}
-
+/* */
 .albumes{
     list-style: none;
     margin: 0;
@@ -151,4 +106,56 @@ main .feid-pages .feid-page img{
 
 .temas li{
     text-align: left;
+}
+
+/* Estilos del footer */
+footer{
+    color: white;
+    padding: 10px;
+}
+
+footer .social-icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    list-style: none;
+}
+
+footer .social-icons li{
+    margin-left: 8px;
+}
+
+footer .social-icons .social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+footer .social-icons .social-icon img{
+    width: 40%;
+    height: 40%;
+}
+
+footer .feid-pages{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    list-style: none;
+}
+
+footer .feid-pages .feid-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+footer .feid-pages .feid-page img{
+    width: 100%;
+    height: 100%;
 }
